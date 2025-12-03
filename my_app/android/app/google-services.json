@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316884545777",
+    "project_id": "smartroll-35e41",
+    "storage_bucket": "smartroll-35e41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316884545777:android:495b156f759b0952c67950",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeE_5ofCgWP0f9CtL01fAvGdKS-O0r3Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
